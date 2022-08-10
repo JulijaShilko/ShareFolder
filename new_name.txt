@@ -1,1 +1,8 @@
+Computer > Github
+git status
+git add -fail name-
+git commit -m "comment"
+git push
 
+Github > Computer
+git pull
